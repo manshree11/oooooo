@@ -1,0 +1,25 @@
+.hero img{
+    height: 700px;
+    width: 100%;
+}
+.card-img img {
+  height: 300px;
+  width: 300px;
+}
+.maincard {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 10px;
+}
+.card-content {
+  background-color: burlywood;
+  padding: 20px;
+}
+.cards{
+  justify-items: center;
+  border: 1px solid black;
+}
+.footer{
+  background-color: black;
+}

@@ -1,0 +1,23 @@
+.main1{
+    display: flex;
+    background-color: rgb(171, 252, 252);
+}
+.aa{
+      font-size: 50px;
+      color: rgb(231, 26, 78);
+}
+.size{
+      font-size: 50px;
+      color: rgb(55, 89, 241);
+}
+.font{
+      font-size: 50px;
+      color: rgb(252, 239, 58);
+}
+.link{
+      font-size: 50px;
+      color: rgb(2, 191, 238);
+}
+
+
+
